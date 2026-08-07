@@ -1,7 +1,8 @@
 # Publications
 
-Source repository for my scientific publications page, hosted with GitHub Pages.
+Source repository for my scientific publications page.
+
+**Website:** https://thiago-cav.github.io/publications/
 
 Publications are maintained in [`index.md`](index.md).
 
-The list includes peer-reviewed articles and preprints.
