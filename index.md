@@ -3,16 +3,6 @@ layout: default
 title: Publications
 ---
 
-# Thiago Cavalcante
-
-## Scientific Publications
-
-Peer-reviewed scientific articles and preprints.
-
-**[Peer-reviewed Articles](#peer-reviewed-scientific-articles) · [Preprints](#preprints)**
-
----
-
 ## Peer-reviewed Scientific Articles
 
 ### 2025
