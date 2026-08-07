@@ -42,11 +42,18 @@
 
     .sidebar h1 {
       font-size: 1.3rem;
-      margin: 0 0 4px;
+      margin: 0;
       line-height: 1.3;
+      color: #111827;
     }
 
-    .sidebar p {
+    .sidebar .position {
+      margin: 10px 0 1px;
+      color: #4b5563;
+      font-size: 0.95rem;
+    }
+
+    .sidebar .affiliation {
       margin: 0 0 22px;
       color: #6b7280;
       font-size: 0.95rem;
@@ -99,6 +106,10 @@
       padding-bottom: 10px;
       border-bottom: 1px solid #dfe3e8;
       font-size: 1.45rem;
+    }
+
+    .content h2:first-child {
+      margin-top: 0;
     }
 
     .content h3 {
@@ -162,7 +173,8 @@
 
     <aside class="sidebar">
       <h1>Thiago Cavalcante</h1>
-      <p>Scientific Publications</p>
+      <p class="position">Postdoctoral Researcher</p>
+      <p class="affiliation">University of Helsinki</p>
 
       <nav>
         <a href="#peer-reviewed-scientific-articles">Peer-reviewed Articles</a>
