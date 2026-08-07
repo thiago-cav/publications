@@ -26,7 +26,7 @@ Modelling 21st century refugia and impact of climate change on Amazonia's larges
 *Ecography*, e06988 (2024)
 [DOI](https://doi.org/10.1111/ecog.06988)
 
-Assessing the invasive potential of Saguinus midas in the extent of occurrence of the critically endangered Saguinus bicolor.
+Assessing the invasive potential of *Saguinus midas* in the extent of occurrence of the critically endangered *Saguinus bicolor*.
 Lagroteria, D., **Cavalcante, T.**, Zuquim, G., Röhe, F., Medeiros, A. S. M., Hrbek, T., et al.
 *Frontiers in Conservation Science*, 5, 1426488 (2024)
 [DOI](https://doi.org/10.3389/fcosc.2024.1426488)
@@ -40,7 +40,7 @@ When partitioning is not an option: Resource availability predicts intraguild in
 
 ### 2022
 
-Pulp Fiction: Why Some Populations of Ripe-Fruit Specialists Ateles chamek and A. marginatus Prefer Insect-Infested Foods.
+Pulp Fiction: Why some populations of ripe-fruit specialists *Ateles chamek* and *A. marginatus* prefer insect-infested foods.
 dos Santos-Barnett, T. C., **Cavalcante, T.**, Boyle, S. A., Matte, A. L., Bezerra, B. M., Oliveira, T. G., et al.
 *International Journal of Primatology*, 43, 384–408 (2022)
 [DOI](https://doi.org/10.1007/s10764-022-00284-0)
@@ -52,7 +52,7 @@ Combining geospatial abundance and ecological niche models to identify high-prio
 
 ### 2021
 
-Degree of Frugivory Predicts Rates of Food-Related Agonism and Intragroup Proximity in Wild Gray Woolly Monkeys (Lagothrix lagotricha cana).
+Degree of frugivory predicts rates of food-related agonism and intragroup proximity in wild gray woolly monkeys (*Lagothrix lagotricha cana*).
 **Cavalcante, T.**, Strier, K. B., & Bicca-Marques, J. C.
 *International Journal of Primatology*, 42, 533–547 (2021)
 [DOI](https://doi.org/10.1007/s10764-021-00217-3)
@@ -64,24 +64,24 @@ Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., Palmeira, F. B. L., de Melo, F. R
 *Ecology*, 101(11), e03128 (2020)
 [DOI](https://doi.org/10.1002/ecy.3128)
 
-Niche overlap between two sympatric frugivorous Neotropical primates: improving ecological niche models using closely-related taxa.
+Niche overlap between two sympatric frugivorous Neotropical primates: Improving ecological niche models using closely-related taxa.
 **Cavalcante, T.**, Jesus, A. S., Rabelo, R. M., Messias, M. R., Valsecchi, J., Ferraz, D., et al.
 *Biodiversity Conservation*, 29, 2749–2763 (2020)
 [DOI](https://doi.org/10.1007/s10531-020-01997-5)
 
-Being hunted high and low: do differences in nocturnal sleeping and diurnal resting sites of howler monkeys (Alouatta nigerrima and Alouatta discolor) reflect safety from attack by different types of predator?
+Being hunted high and low: do differences in nocturnal sleeping and diurnal resting sites of howler monkeys (*Alouatta nigerrima* and *Alouatta discolor*) reflect safety from attack by different types of predator?
 Jucá, T., Boyle, S., Cavalcanti, G., **Cavalcante, T.**, Tomanek, P., Clemente, S., et al.
 *Biological Journal of the Linnean Society*, 131(1), 203–219 (2020)
 [DOI](https://doi.org/10.1093/biolinnean/blaa102)
 
-Extension of occurrence area of the maned wolf, Chrysocyon brachyurus (Carnivora, Canidae) in the Amazon biome.
+Extension of occurrence area of the maned wolf, *Chrysocyon brachyurus* (Carnivora, Canidae) in the Amazon biome.
 Silva-Diogo, O., Goebel, L. G. A., de Sousa, M. R., Gusmão, A. C., Costa, T. M., Jesus, A. S., & **Cavalcante, T.**
 *Oecologia Australis*, 24(4), 928–937 (2020)
 [DOI](https://doi.org/10.4257/oeco.2020.2404.15)
 
 ### 2019
 
-Predation of Boana boans (Anura, Hylidae) by an opportunistic frugivorous primate.
+Predation of *Boana boans* (Anura, Hylidae) by an opportunistic frugivorous primate.
 **Cavalcante, T.**, Simoes, P. I., & Mourthé, I.
 *Acta Amazonica*, 49(4), 307–310 (2019)
 [DOI](https://doi.org/10.1590/1809-4392201901430)
@@ -93,7 +93,7 @@ Insights into the development of a juvenile harpy eagle's hunting skills.
 
 ### 2017
 
-Unexpected diversity: the potential role of privately-owned forest remnants in the conservation of the primates of the highly-impacted Rondônia center of endemism, southwestern Amazonia.
+Unexpected diversity: The potential role of privately-owned forest remnants in the conservation of the primates of the highly-impacted Rondônia center of endemism, southwestern Amazonia.
 **Cavalcante, T.**, Gusmão, A. C., & Ferrari, S. F.
 *Neotropical Primates*, 24(2), 82–85 (2017)
 [DOI](https://doi.org/10.62015/np.2018.v24.103)
