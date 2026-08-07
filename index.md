@@ -1,3 +1,8 @@
+---
+layout: default
+title: Publications
+---
+
 # Thiago Cavalcante
 
 ## Publications
