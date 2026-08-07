@@ -5,6 +5,13 @@ title: Publications
 
 ## Peer-reviewed Scientific Articles
 
+### 2026
+
+1. **Continental-wide prioritization of protected areas to address global and habitat-specific goals for avian biodiversity conservation.**
+   Xu, Y., Pavón-Jordán, D., Hallman, T., Bakx, T. R. M., Brotons, L., Herrando, S., … **Cavalcante, T.**, et al.
+   *Conservation Biology*, e70324 (2026)
+   [DOI](https://doi.org/10.1111/cobi.70324)
+
 ### 2025
 
 1. **Evaluating trade-offs between species targets and average coverage in spatial conservation planning.**
@@ -53,7 +60,7 @@ title: Publications
 ### 2020
 
 8. **NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics.**
-   Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., Palmeira, F. B. L., de Melo, F. R., Morato, R. G., et al.
+   Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., Palmeira, F. B. L., de Melo, F. R., Morato, R. G., … **Cavalcante, T.**, et al.
    *Ecology*, 101(11), e03128 (2020)
    [DOI](https://doi.org/10.1002/ecy.3128)
 
@@ -101,6 +108,13 @@ title: Publications
 ---
 
 ## Preprints
+
+### 2026
+
+1. **Correcting overprediction reduces the propagation of uncertainty from species distribution models into spatial conservation prioritization.**
+   **Cavalcante, T.**, Si-Moussi, S., Tzivanopoulos, M., Hoareau, M., Thuiller, W., & Kujala, H.
+   *bioRxiv* (2026)
+   **[View preprint](https://doi.org/10.64898/2026.05.19.726420)**
 
 ### 2025
 
