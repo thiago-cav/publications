@@ -1,6 +1,6 @@
 # Publications
 
-Source repository for my scientific publications page.
+Source repository for my scientific publications.
 
 **Website:** https://thiago-cav.github.io/publications/
 
