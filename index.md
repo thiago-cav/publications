@@ -9,7 +9,7 @@ title: Publications
 
 ZonationR: An R interface to the Zonation software for reproducible spatial conservation prioritisation workflows.
 **Cavalcante, T.**, Ribeiro, B., Guidoni-Martins, K., & Kujala, H.
-*Ecography*, In press (2026)
+*Ecography*, (2026)
 [DOI](https://doi.org/10.1002/ecog.08892)
 
 Continental-wide prioritization of protected areas to address global and habitat-specific goals for avian biodiversity conservation.
